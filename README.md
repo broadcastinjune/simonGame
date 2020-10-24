@@ -1,0 +1,2 @@
+# simonGame
+Simon style game
